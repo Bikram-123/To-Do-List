@@ -1,0 +1,45 @@
+#a1{
+	background-color: silver;
+	width:30%;
+	height:25px;
+	margin-left: 60px;
+}
+ul
+{
+list-style-type: none;
+padding-top: 12px;
+
+}
+#hell{
+	margin-left: 40%;
+	margin-right: 40%;
+}
+h1{
+	color:black;
+	
+	text-shadow: 10px 7px 5px silver;
+	margin-left: 0px;
+	font-size: 300%;
+	margin-top: 100px;
+}
+#d
+{
+
+	
+	text-align: left;
+	
+}
+#text1
+{
+	background-color: lightgreen;
+}
+#btn
+{
+	width:30%;
+}
+body{
+	background-color:coral;
+}
+#btn:hover{
+	background-color: skyblue;
+}
